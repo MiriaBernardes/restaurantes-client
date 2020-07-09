@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #ffffff;
+}
+
+.container {
+    padding: 50px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  margin: 0 auto;
+}
+
+#btn-form-submit {
+    outline: none;
+    border: none;
+    background-color: #d89a9e;
+    padding: 8px;
+    color: white;
+}
+
+.input-form {
+    width: 200px;
+    border: 1px solid #d89a9e;
+    outline: none;
+    padding: 8px;
+}
+
+#restaurantes {
+    margin-top: 50px;
+    list-style: none;
+}

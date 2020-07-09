@@ -1,6 +1,3 @@
-const axios = require('axios')
-
-
 var nome = 'Top100'
 
 var restaurantes = [];
